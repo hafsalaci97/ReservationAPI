@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Rezervim.html",
+      "PackagePath": "staticwebassets\\Rezervim.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Rezervim.js",
+      "PackagePath": "staticwebassets\\Rezervim.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Shumtemira.jpg",
+      "PackagePath": "staticwebassets\\Shumtemira.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Sushi.jpeg",
+      "PackagePath": "staticwebassets\\Sushi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Taste of Japan_ Exquisite Sushi Creations.jpeg",
+      "PackagePath": "staticwebassets\\Taste of Japan_ Exquisite Sushi Creations.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\contactstyle.css",
+      "PackagePath": "staticwebassets\\contactstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\FOTOWEB.jpeg",
+      "PackagePath": "staticwebassets\\img\\FOTOWEB.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\Shumtemira.jpg",
+      "PackagePath": "staticwebassets\\img\\Shumtemira.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\image2.png",
+      "PackagePath": "staticwebassets\\img\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\rezervimstyles.css",
+      "PackagePath": "staticwebassets\\rezervimstyles.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\wasushi.jpeg",
+      "PackagePath": "staticwebassets\\wasushi.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReservationAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReservationAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ReservationAPI.props",
+      "PackagePath": "build\\ReservationAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ReservationAPI.props",
+      "PackagePath": "buildMultiTargeting\\ReservationAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ReservationAPI.props",
+      "PackagePath": "buildTransitive\\ReservationAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

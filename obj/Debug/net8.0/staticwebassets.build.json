@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "x2KFL+LYNXBycMAheAxZHcBszbHIKzoF/HFasb8MhKs=",
+  "Source": "ReservationAPI",
+  "BasePath": "_content/ReservationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReservationAPI\\wwwroot",
+      "Source": "ReservationAPI",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\contactstyle.css",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "contactstyle#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dout9bre2p",
+      "Integrity": "c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\contactstyle.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\FOTOWEB.jpeg",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "img/FOTOWEB#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3nbtx832wv",
+      "Integrity": "L3G9nriqYbMtS/YaM4flmQ3lFGHi+v/8vrmuCAtwGVk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\FOTOWEB.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\image2.png",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "img/image2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "67zu8eay5n",
+      "Integrity": "si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\image2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\Shumtemira.jpg",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "img/Shumtemira#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n1sxy3bfv9",
+      "Integrity": "xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Shumtemira.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\index.html",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7uh7oafop3",
+      "Integrity": "D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Rezervim.html",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "Rezervim#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x7c8fnnile",
+      "Integrity": "3QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rezervim.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Rezervim.js",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "Rezervim#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3y0bhmtmiz",
+      "Integrity": "dQ1+1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rezervim.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\rezervimstyles.css",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "rezervimstyles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0of7cpbvg9",
+      "Integrity": "EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rezervimstyles.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Shumtemira.jpg",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "Shumtemira#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n1sxy3bfv9",
+      "Integrity": "xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Shumtemira.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Sushi.jpeg",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "Sushi#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xfiplxw2ei",
+      "Integrity": "nQLgvA+cyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Sushi.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Taste of Japan_ Exquisite Sushi Creations.jpeg",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "Taste of Japan_ Exquisite Sushi Creations#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wkr22ulsmt",
+      "Integrity": "IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL+GKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Taste of Japan_ Exquisite Sushi Creations.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\wasushi.jpeg",
+      "SourceId": "ReservationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\",
+      "BasePath": "_content/ReservationAPI",
+      "RelativePath": "wasushi#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5t6ipufhmf",
+      "Integrity": "+ROjzzTrMi85E3gdyGVAKzDeh+Sbq9Yu5aMqfQ9dHD4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wasushi.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "contactstyle.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\contactstyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU="
+        }
+      ]
+    },
+    {
+      "Route": "contactstyle.dout9bre2p.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\contactstyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dout9bre2p"
+        },
+        {
+          "Name": "label",
+          "Value": "contactstyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU="
+        }
+      ]
+    },
+    {
+      "Route": "img/FOTOWEB.3nbtx832wv.jpeg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\FOTOWEB.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L3G9nriqYbMtS/YaM4flmQ3lFGHi+v/8vrmuCAtwGVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3nbtx832wv"
+        },
+        {
+          "Name": "label",
+          "Value": "img/FOTOWEB.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L3G9nriqYbMtS/YaM4flmQ3lFGHi+v/8vrmuCAtwGVk="
+        }
+      ]
+    },
+    {
+      "Route": "img/FOTOWEB.jpeg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\FOTOWEB.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L3G9nriqYbMtS/YaM4flmQ3lFGHi+v/8vrmuCAtwGVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L3G9nriqYbMtS/YaM4flmQ3lFGHi+v/8vrmuCAtwGVk="
+        }
+      ]
+    },
+    {
+      "Route": "img/image2.67zu8eay5n.png",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\image2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67zu8eay5n"
+        },
+        {
+          "Name": "label",
+          "Value": "img/image2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw="
+        }
+      ]
+    },
+    {
+      "Route": "img/image2.png",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\image2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Shumtemira.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\Shumtemira.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs="
+        }
+      ]
+    },
+    {
+      "Route": "img/Shumtemira.n1sxy3bfv9.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\img\\Shumtemira.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n1sxy3bfv9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Shumtemira.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs="
+        }
+      ]
+    },
+    {
+      "Route": "index.7uh7oafop3.html",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7uh7oafop3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI="
+        }
+      ]
+    },
+    {
+      "Route": "Rezervim.3y0bhmtmiz.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Rezervim.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQ1+1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 14:55:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3y0bhmtmiz"
+        },
+        {
+          "Name": "label",
+          "Value": "Rezervim.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQ1+1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY="
+        }
+      ]
+    },
+    {
+      "Route": "Rezervim.html",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Rezervim.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg="
+        }
+      ]
+    },
+    {
+      "Route": "Rezervim.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Rezervim.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQ1+1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 14:55:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQ1+1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY="
+        }
+      ]
+    },
+    {
+      "Route": "Rezervim.x7c8fnnile.html",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Rezervim.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x7c8fnnile"
+        },
+        {
+          "Name": "label",
+          "Value": "Rezervim.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg="
+        }
+      ]
+    },
+    {
+      "Route": "rezervimstyles.0of7cpbvg9.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\rezervimstyles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0of7cpbvg9"
+        },
+        {
+          "Name": "label",
+          "Value": "rezervimstyles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY="
+        }
+      ]
+    },
+    {
+      "Route": "rezervimstyles.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\rezervimstyles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY="
+        }
+      ]
+    },
+    {
+      "Route": "Shumtemira.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Shumtemira.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs="
+        }
+      ]
+    },
+    {
+      "Route": "Shumtemira.n1sxy3bfv9.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Shumtemira.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n1sxy3bfv9"
+        },
+        {
+          "Name": "label",
+          "Value": "Shumtemira.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs="
+        }
+      ]
+    },
+    {
+      "Route": "Sushi.jpeg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Sushi.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQLgvA+cyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQLgvA+cyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8="
+        }
+      ]
+    },
+    {
+      "Route": "Sushi.xfiplxw2ei.jpeg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Sushi.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQLgvA+cyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfiplxw2ei"
+        },
+        {
+          "Name": "label",
+          "Value": "Sushi.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQLgvA+cyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8="
+        }
+      ]
+    },
+    {
+      "Route": "Taste of Japan_ Exquisite Sushi Creations.jpeg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Taste of Japan_ Exquisite Sushi Creations.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL+GKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL+GKY="
+        }
+      ]
+    },
+    {
+      "Route": "Taste of Japan_ Exquisite Sushi Creations.wkr22ulsmt.jpeg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\Taste of Japan_ Exquisite Sushi Creations.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL+GKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wkr22ulsmt"
+        },
+        {
+          "Name": "label",
+          "Value": "Taste of Japan_ Exquisite Sushi Creations.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL+GKY="
+        }
+      ]
+    },
+    {
+      "Route": "wasushi.5t6ipufhmf.jpeg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\wasushi.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ROjzzTrMi85E3gdyGVAKzDeh+Sbq9Yu5aMqfQ9dHD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5t6ipufhmf"
+        },
+        {
+          "Name": "label",
+          "Value": "wasushi.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ROjzzTrMi85E3gdyGVAKzDeh+Sbq9Yu5aMqfQ9dHD4="
+        }
+      ]
+    },
+    {
+      "Route": "wasushi.jpeg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ReservationAPI\\ReservationAPI\\wwwroot\\wasushi.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ROjzzTrMi85E3gdyGVAKzDeh+Sbq9Yu5aMqfQ9dHD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 09:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ROjzzTrMi85E3gdyGVAKzDeh+Sbq9Yu5aMqfQ9dHD4="
+        }
+      ]
+    }
+  ]
+}

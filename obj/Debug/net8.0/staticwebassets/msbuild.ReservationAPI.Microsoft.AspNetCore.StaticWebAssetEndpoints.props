@@ -1,0 +1,148 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/contactstyle.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\contactstyle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3972"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/contactstyle.dout9bre2p.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\contactstyle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dout9bre2p"},{"Name":"integrity","Value":"sha256-c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU="},{"Name":"label","Value":"_content/ReservationAPI/contactstyle.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3972"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022c9paYa/n4PbRL1MFG/6SYhZIi0hQf/2kkHtZIeMb5FU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/img/FOTOWEB.3nbtx832wv.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\FOTOWEB.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3nbtx832wv"},{"Name":"integrity","Value":"sha256-L3G9nriqYbMtS/YaM4flmQ3lFGHi\u002Bv/8vrmuCAtwGVk="},{"Name":"label","Value":"_content/ReservationAPI/img/FOTOWEB.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70920"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022L3G9nriqYbMtS/YaM4flmQ3lFGHi\u002Bv/8vrmuCAtwGVk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/img/FOTOWEB.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\FOTOWEB.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-L3G9nriqYbMtS/YaM4flmQ3lFGHi\u002Bv/8vrmuCAtwGVk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"70920"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022L3G9nriqYbMtS/YaM4flmQ3lFGHi\u002Bv/8vrmuCAtwGVk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/img/image2.67zu8eay5n.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\image2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"67zu8eay5n"},{"Name":"integrity","Value":"sha256-si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw="},{"Name":"label","Value":"_content/ReservationAPI/img/image2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"321692"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/img/image2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\image2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"321692"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022si1UAAjFaHZkWf1mLEBhLQSVxDzRMPodp/jVXE4NYHw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/img/Shumtemira.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Shumtemira.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"95102"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/img/Shumtemira.n1sxy3bfv9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Shumtemira.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n1sxy3bfv9"},{"Name":"integrity","Value":"sha256-xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs="},{"Name":"label","Value":"_content/ReservationAPI/img/Shumtemira.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"95102"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/index.7uh7oafop3.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7uh7oafop3"},{"Name":"integrity","Value":"sha256-D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI="},{"Name":"label","Value":"_content/ReservationAPI/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6647"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6647"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022D8bjecizUjhIKux2MkvT6NV/gGsZbnAY6bop8ZKBJjI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Rezervim.3y0bhmtmiz.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Rezervim.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3y0bhmtmiz"},{"Name":"integrity","Value":"sha256-dQ1\u002B1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY="},{"Name":"label","Value":"_content/ReservationAPI/Rezervim.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022dQ1\u002B1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 14:55:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Rezervim.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Rezervim.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3300"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00223QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:52:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Rezervim.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Rezervim.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dQ1\u002B1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022dQ1\u002B1QpKDReWJCgXw9VEUmaJbRchqz8Bryn5f6eTfIY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 14:55:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Rezervim.x7c8fnnile.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Rezervim.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x7c8fnnile"},{"Name":"integrity","Value":"sha256-3QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg="},{"Name":"label","Value":"_content/ReservationAPI/Rezervim.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3300"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00223QqzBufwLWp4EisKSKveHlqxk5YWeXvvmqfq5U0qHjg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:52:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/rezervimstyles.0of7cpbvg9.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\rezervimstyles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0of7cpbvg9"},{"Name":"integrity","Value":"sha256-EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY="},{"Name":"label","Value":"_content/ReservationAPI/rezervimstyles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1272"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/rezervimstyles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\rezervimstyles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1272"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EEv2HdRFiP5h9P04M8yT/Mwkhz9PrXlonJQJbYQM4DY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Shumtemira.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Shumtemira.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"95102"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Shumtemira.n1sxy3bfv9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Shumtemira.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n1sxy3bfv9"},{"Name":"integrity","Value":"sha256-xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs="},{"Name":"label","Value":"_content/ReservationAPI/Shumtemira.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"95102"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xTWSfpejS1S00gLAOFFMxxHztq9LZzpywobLGrlEoNs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Sushi.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sushi.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nQLgvA\u002BcyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"71131"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nQLgvA\u002BcyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Sushi.xfiplxw2ei.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sushi.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xfiplxw2ei"},{"Name":"integrity","Value":"sha256-nQLgvA\u002BcyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8="},{"Name":"label","Value":"_content/ReservationAPI/Sushi.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"71131"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nQLgvA\u002BcyylPQWIjoogR3qSNYEMLlXGz1dioaDNEGG8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Taste of Japan_ Exquisite Sushi Creations.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Taste of Japan_ Exquisite Sushi Creations.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL\u002BGKY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"123695"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL\u002BGKY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/Taste of Japan_ Exquisite Sushi Creations.wkr22ulsmt.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Taste of Japan_ Exquisite Sushi Creations.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wkr22ulsmt"},{"Name":"integrity","Value":"sha256-IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL\u002BGKY="},{"Name":"label","Value":"_content/ReservationAPI/Taste of Japan_ Exquisite Sushi Creations.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"123695"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IMJ5UNBzRjZnsglWdBXJ7ZdmbvLjPhmWL8G/ZgL\u002BGKY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/wasushi.5t6ipufhmf.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\wasushi.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5t6ipufhmf"},{"Name":"integrity","Value":"sha256-\u002BROjzzTrMi85E3gdyGVAKzDeh\u002BSbq9Yu5aMqfQ9dHD4="},{"Name":"label","Value":"_content/ReservationAPI/wasushi.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29865"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BROjzzTrMi85E3gdyGVAKzDeh\u002BSbq9Yu5aMqfQ9dHD4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReservationAPI/wasushi.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\wasushi.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BROjzzTrMi85E3gdyGVAKzDeh\u002BSbq9Yu5aMqfQ9dHD4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29865"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BROjzzTrMi85E3gdyGVAKzDeh\u002BSbq9Yu5aMqfQ9dHD4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 09:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
